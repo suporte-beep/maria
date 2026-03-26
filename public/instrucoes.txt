@@ -1,0 +1,2 @@
+Coloque a sua foto restaurada aqui nesta pasta com o nome exato de "foto-restaurada.jpg".
+Isso fará com que o aplicativo a exiba automaticamente e permita o download!
